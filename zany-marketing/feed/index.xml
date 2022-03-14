@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zany Marketing &#8211; Zany Marketing</title>
+	<atom:link href="https://zany.pt/zany-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zany.pt/</link>
+	<description>Agência de comunicação e marketing digital</description>
+	<lastBuildDate>Wed, 18 Aug 2021 11:53:35 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://zany.pt/wp-content/uploads/2020/10/cropped-logo_ZANY-WP-favicon-maj-32x32.png</url>
+	<title>Zany Marketing &#8211; Zany Marketing</title>
+	<link>https://zany.pt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5 VANTAGENS DE CONTRATAR UMA AGÊNCIA</title>
+		<link>https://zany.pt/5-vantagens-de-contratar-uma-agencia/</link>
+					<comments>https://zany.pt/5-vantagens-de-contratar-uma-agencia/#respond</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 17:00:40 +0000</pubDate>
+				<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Zany Marketing]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=4926</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/5-vantagens-de-contratar-uma-agencia/" title="5 VANTAGENS DE CONTRATAR UMA AGÊNCIA" rel="nofollow"><img width="768" height="768" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:768/q:90/https://zany.pt/wp-content/uploads/2021/03/My-Post-20.png" class="webfeedsFeaturedVisual wp-post-image" alt="loja" style="float: left; margin-right: 5px;" link_thumbnail="1" title="5 VANTAGENS DE CONTRATAR UMA AGÊNCIA 1"></a>1. Tem acesso às competências necessárias Construir uma equipa interna para tratar de todas as questões relacionadas com o marketing digital ou tradicional é praticamente impossível para a grande maioria das PME portuguesas. As competências de que a sua companhia precisa ou são difíceis de encontrar, ou são muito caras. Mais ainda, não é financeiramente [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/5-vantagens-de-contratar-uma-agencia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OLÁ, MUNDO!</title>
+		<link>https://zany.pt/ola-mundo/</link>
+					<comments>https://zany.pt/ola-mundo/#respond</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2021 12:00:06 +0000</pubDate>
+				<category><![CDATA[Notícias de Indústria]]></category>
+		<category><![CDATA[Zany Marketing]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=4646</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/ola-mundo/" title="OLÁ, MUNDO!" rel="nofollow"><img width="768" height="402" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:402/q:90/https://zany.pt/wp-content/uploads/2021/01/Ola-Mundo.png" class="webfeedsFeaturedVisual wp-post-image" alt="Ola Mundo" style="float: left; margin-right: 5px;" link_thumbnail="1" title="OLÁ, MUNDO! 2"></a>A Zany Marketing nasce do objetivo de oferecer soluções de marketing data-driven às PME portuguesas. Estas soluções em conjunto com as nossas propostas de criatividade permitem-lhe aumentar a visibilidade da sua marca e chegar ao topo do seu mercado. Composta por uma equipa multidisciplinar, a Zany Marketing aborda para as campanhas com várias perspetivas diferentes o que [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 84/96 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via ZanyMkt.b-cdn.net
+Database Caching using disk
+
+Served from: zany.pt @ 2022-03-07 21:53:07 by W3 Total Cache
+-->

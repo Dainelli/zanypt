@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inbound Marketing &#8211; Zany Marketing</title>
+	<atom:link href="https://zany.pt/en/inbound-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zany.pt/</link>
+	<description>Agência de comunicação e marketing digital</description>
+	<lastBuildDate>Mon, 15 Mar 2021 16:52:40 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://zany.pt/wp-content/uploads/2020/10/cropped-logo_ZANY-WP-favicon-maj-32x32.png</url>
+	<title>Inbound Marketing &#8211; Zany Marketing</title>
+	<link>https://zany.pt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>THE IMPORTANCE OF THE MARKETING PLAN</title>
+		<link>https://zany.pt/en/the-importance-of-the-marketing-plan/</link>
+					<comments>https://zany.pt/en/the-importance-of-the-marketing-plan/#respond</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Mon, 15 Mar 2021 17:00:18 +0000</pubDate>
+				<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Inbound Marketing]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Strategic Marketing]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=4969</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/en/the-importance-of-the-marketing-plan/" title="THE IMPORTANCE OF THE MARKETING PLAN" rel="nofollow"><img width="768" height="402" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:402/q:90/https://zany.pt/wp-content/uploads/2021/03/My-Post-22.png" class="webfeedsFeaturedVisual wp-post-image" alt="My Post 22" style="float: left; margin-right: 5px;" link_thumbnail="1" title="THE IMPORTANCE OF THE MARKETING PLAN 1"></a>Every company needs a marketing plan. It does not matter if it is a one-man company with only one employee or a company with thousands of employees in different countries. Marketing leads to sales. Without marketing, companies do not have enough income to stay open in the long term. Despite the importance of these documents [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/en/the-importance-of-the-marketing-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MARKETING INBOUND VS MARKETING OUTBOUND</title>
+		<link>https://zany.pt/en/marketing-inbound-vs-marketing-outbound-en/</link>
+					<comments>https://zany.pt/en/marketing-inbound-vs-marketing-outbound-en/#respond</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 17:00:05 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Educational]]></category>
+		<category><![CDATA[Inbound Marketing]]></category>
+		<category><![CDATA[Outbound Marketing]]></category>
+		<category><![CDATA[PPC]]></category>
+		<category><![CDATA[SEM]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=4723</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/en/marketing-inbound-vs-marketing-outbound-en/" title="MARKETING INBOUND VS MARKETING OUTBOUND" rel="nofollow"><img width="768" height="768" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:768/q:90/https://zany.pt/wp-content/uploads/2021/02/My-Post-8.png" class="webfeedsFeaturedVisual wp-post-image" alt="inbound vs outbound" style="float: left; margin-right: 5px;" link_thumbnail="1" title="MARKETING INBOUND VS MARKETING OUTBOUND 2"></a>Inbound Marketing The objective of inbound marketing is to grow a brand by building relationships with customers and prospects. To do this, we build lasting and meaningful relationships. We must offer value and empower people to contact us at any stage of the customer&#8217;s journey. The inbound methodology is usually applied in three different ways: [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/en/marketing-inbound-vs-marketing-outbound-en/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 95/116 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via ZanyMkt.b-cdn.net
+Database Caching using disk
+
+Served from: zany.pt @ 2022-03-07 21:53:30 by W3 Total Cache
+-->

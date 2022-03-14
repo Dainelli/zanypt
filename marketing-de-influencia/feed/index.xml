@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing de Influência &#8211; Zany Marketing</title>
+	<atom:link href="https://zany.pt/marketing-de-influencia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zany.pt/</link>
+	<description>Agência de comunicação e marketing digital</description>
+	<lastBuildDate>Tue, 03 Aug 2021 10:29:19 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://zany.pt/wp-content/uploads/2020/10/cropped-logo_ZANY-WP-favicon-maj-32x32.png</url>
+	<title>Marketing de Influência &#8211; Zany Marketing</title>
+	<link>https://zany.pt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>O MARKETING DE INFLUÊNCIA VALE A PENA?</title>
+		<link>https://zany.pt/o-marketing-de-influencia-vale-a-pena/</link>
+					<comments>https://zany.pt/o-marketing-de-influencia-vale-a-pena/#respond</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Mon, 02 Aug 2021 15:30:16 +0000</pubDate>
+				<category><![CDATA[Marketing de Influência]]></category>
+		<category><![CDATA[Marketing Outbound]]></category>
+		<category><![CDATA[Redes Sociais]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=6500</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/o-marketing-de-influencia-vale-a-pena/" title="O MARKETING DE INFLUÊNCIA VALE A PENA?" rel="nofollow"><img width="768" height="402" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:402/q:90/https://zany.pt/wp-content/uploads/2021/08/influencia.png" class="webfeedsFeaturedVisual wp-post-image" alt="influenciadores" style="float: left; margin-right: 5px;" link_thumbnail="1" title="O MARKETING DE INFLUÊNCIA VALE A PENA? 1"></a>Todos os negócios sabem que permanecer na frente da mente é imperativo para o sucesso; é preciso ser o homem certo para o seu nicho. Pode já utilizar as redes sociais para tentar alcançar isto, mas será que o marketing influente faz parte da sua estratégia? Que diferença poderia fazer para o conhecimento da marca [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/o-marketing-de-influencia-vale-a-pena/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 70/85 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via ZanyMkt.b-cdn.net
+Database Caching using disk
+
+Served from: zany.pt @ 2022-03-07 21:52:00 by W3 Total Cache
+-->

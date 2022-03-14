@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Industry news &#8211; Zany Marketing</title>
+	<atom:link href="https://zany.pt/en/industry-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zany.pt/</link>
+	<description>Agência de comunicação e marketing digital</description>
+	<lastBuildDate>Wed, 18 Aug 2021 11:54:32 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://zany.pt/wp-content/uploads/2020/10/cropped-logo_ZANY-WP-favicon-maj-32x32.png</url>
+	<title>Industry news &#8211; Zany Marketing</title>
+	<link>https://zany.pt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HELLO, WORLD!</title>
+		<link>https://zany.pt/en/hello-world/</link>
+					<comments>https://zany.pt/en/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Zany Marketing]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2021 12:00:15 +0000</pubDate>
+				<category><![CDATA[EN-GB]]></category>
+		<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[Zany Marketing]]></category>
+		<guid isPermaLink="false">https://zany.pt/?p=4648</guid>
+
+					<description><![CDATA[<a href="https://zany.pt/en/hello-world/" title="HELLO, WORLD!" rel="nofollow"><img width="768" height="402" src="https://mlciiqhkfixm.i.optimole.com/WT805V8.P_4-~2792f/w:768/h:402/q:90/https://zany.pt/wp-content/uploads/2021/01/Ola-Mundo-1.png" class="webfeedsFeaturedVisual wp-post-image" alt="Ola Mundo 1" style="float: left; margin-right: 5px;" link_thumbnail="1" title="HELLO, WORLD! 1"></a>Zany Marketing was created with the goal to offer data-driven marketing solutions to European SME’s. These solutions, together with our creativity proposals, allow you to increase the visibility of your brand and reach the top of your market. With a multidisciplinary team, Zany Marketing approaches campaigns with different POVs which allows us to explore their different dimensions. Thus, we are able to offer a unique [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://zany.pt/en/hello-world/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 74/98 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via ZanyMkt.b-cdn.net
+Database Caching using disk
+
+Served from: zany.pt @ 2022-03-07 21:53:20 by W3 Total Cache
+-->
